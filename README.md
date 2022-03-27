@@ -1,5 +1,5 @@
 ### Hi, I'm Andrew :)
-![A portrait of Andrew.](https://drivent.tech/wp-content/uploads/2019/05/Drivent-Headshots-Andy-9944-Square.jpg "Hello there, I'm Andrew")
+![A portrait of Andrew.](https://drivent.tech/wp-content/uploads/2019/05/Drivent-Headshots-Andy-9944-Square.jpg =300x300)
 
 #### A little about myself
 I'm an experienced marketing profesional who is passionate about technology. I work for TotalMount, the trusted leader in electronics mounint. In my current role as a Product Marketing Manager, I've helped my team launch over 40 products in the consumer electronics mounting segment.
