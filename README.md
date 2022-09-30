@@ -1,7 +1,7 @@
 ### Hi, I'm Andrew :)
 
 #### A little about myself
-I'm an experienced marketing profesional who is passionate about technology. I work for TotalMount, the trusted leader in electronics mounint. In my current role as a Product Marketing Manager, I've helped my team launch over 40 products in the consumer electronics mounting segment.
+I'm an experienced marketing profesional who is passionate about technology. I work for TotalMount, the trusted leader in electronics mounting. In my current role as a Product Marketing Manager, I've helped my team launch over 40 products in the consumer electronics mounting segment.
 
 I lead the go-to-market strategy for all upcoming TotalMount products. I have extensive knowledge of the Amazon selling platform, including 5,000+ hours of advertising experience (Amazon Ads platform, Amazon Attribution, and Amazon Storefront).
 
